@@ -24,7 +24,7 @@ const Home = () => {
   return (
     <Container style={homeStyle}>
       <h2 style={headingStyle}>Welcome to Tassc</h2>
-      <p style={paragraphStyle}>Your security, our priority.</p>
+      <p style={paragraphStyle}>Your virtual task manager.</p>
     </Container>
   );
 };
